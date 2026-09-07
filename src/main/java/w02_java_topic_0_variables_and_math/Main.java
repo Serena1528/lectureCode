@@ -7,6 +7,8 @@ public class Main {
         // Print a welcome message for this class
         String className = "Java";
         System.out.println("Welcome to the " + className + " class!");
+        String college = "MCTC";
+        System.out.println("I go to " + college);
     }
 
 }
